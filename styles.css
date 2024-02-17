@@ -1,0 +1,27 @@
+.text-red {
+  color: red;
+}
+
+/* li:nth-child(even) {
+  color: red;
+} */
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: .3em .6em;
+  border: 1px solid #cdcdcd;
+}
+
+th {
+  background: lightpink;
+}
+
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
